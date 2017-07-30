@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+
+	root to: 'articles#index'
   
 	resources :articles
 	# This line tells Rails that we have a resource named articles and the router should expect requests to fiollow the RESTful model of web interaction
