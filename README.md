@@ -1,24 +1,11 @@
-# README
+# Jumpstart Blogger 2 Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple [blogger](https://en.wikipedia.org/wiki/Hangman_(game)) built with Ruby on Rails!
 
-Things you may want to cover:
+This is a project from [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/blogger.html) recommended by [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails)
 
-* Ruby version
+## Post-Project Thoughts
 
-* System dependencies
+This was a step-by-step tutorial, so I played minimal role in design. This was introduced in the Web Development 101 section of The Odin Project to give me a small taste of Rails. It was definitely confusing at times but I grew to partially understand some of the vocabulary and relationships.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I look forward to learning Rails one day.
